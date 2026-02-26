@@ -13,7 +13,7 @@ title                    : "Saber Ferjani"
 title_separator          : "-"
 name                     : &name "Saber Ferjani"
 description              : &description "Saber Ferjani's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://personal-web.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://sabertn.github.io/personal-web # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : "saberf34" # Username
   lastfm           : # Username
-  linkedin         : "linkedin.com/in/saberferjani"
+  linkedin         : "saberferjani"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
