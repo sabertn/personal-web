@@ -97,13 +97,13 @@
   ],
   "skills": [],
   "languages": [
-    {Arabic}, 
-    {Dutch}, 
-    {English}, 
-    {French}, 
-    {Italian}
+    {"Arabic": "Native"}, 
+    {"Dutch": ""}, 
+    {"English": ""}, 
+    {"French": ""}, 
+    {"Italian": ""}
   ],
-  "interests": [Cycling],
+  "interests": ["Cycling"],
   "references": [],
   "publications": [],
   "presentations": [
