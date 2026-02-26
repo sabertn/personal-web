@@ -96,7 +96,13 @@
     }
   ],
   "skills": [],
-  "languages": [Arabic, Dutch, English, French, Italian],
+  "languages": [
+    {Arabic}, 
+    {Dutch}, 
+    {English}, 
+    {French}, 
+    {Italian}
+  ],
   "interests": [Cycling],
   "references": [],
   "publications": [],
