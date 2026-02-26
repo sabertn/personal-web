@@ -2,7 +2,7 @@
   "basics": {
     "name": "Saber Ferjani",
     "email": "info@saber-ferjani.com",
-    "phone": "",
+    "phone": "+31 (0) 10 32 161 32",
     "website": "https://saber-ferjani.com",
     "summary": "Founder & Information Security Consultant",
     "location": {
@@ -12,13 +12,7 @@
       "countryCode": "NL",
       "region": "South holland"
     },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/sabertn"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
@@ -97,9 +91,9 @@
   ],
   "skills": [],
   "languages": [
-    {"Arabic": "Mother tongue"}, 
+    {"name":"Arabic", "level": "Fluent"}, 
     {"Dutch": "Intermediate"}, 
-    {"English": "Native"}, 
+    {"English": "Fluent"}, 
     {"French": "Fluent"}, 
     {"Italian": "Intermediate"}
   ],
